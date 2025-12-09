@@ -1,4 +1,4 @@
-# 🚢 Titanic Survival Prediction — End-to-End Data Science Pipeline  
+# 🚢 Titanic Survival Prediction (Data Science)
 ### PyTorch • Streamlit • Kaggle • EDA • Preprocessing • Inference UI
 
 This project implements a **full machine learning pipeline** for predicting Titanic passenger survival, including:
@@ -37,19 +37,17 @@ This project implements a **full machine learning pipeline** for predicting Tita
 
 ---
 
-## 📥 1. Installation
+## 1. Installation
 
 ```bash
 git clone <your-repo-url>
 cd <your-repo>
-python -m venv .venv
-source .venv/bin/activate      # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
 ---
 
-## 📥 2. Fetching the Titanic Dataset
+## 2. Fetching the Titanic Dataset
 
 The dataset is automatically downloaded via Kaggle CLI:
 
@@ -152,7 +150,7 @@ python train.py
 This script:
 
 - Loads & preprocesses the dataset  
-- Trains for 25–30 epochs  
+- Trains for 30 epochs
 - Evaluates on validation set  
 - Saves:
 
@@ -195,13 +193,12 @@ Ensures consistent preprocessing for both training and inference.
 
 ---
 
+```md
 ## 📈 Example Streamlit Screenshot
 
 *(Add a screenshot for the reviewers)*
 
-```md
 ![Streamlit Screenshot](screenshots/streamlit.png)
-```
 
 ---
 
