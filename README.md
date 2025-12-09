@@ -193,7 +193,6 @@ Ensures consistent preprocessing for both training and inference.
 
 ---
 
-```md
 ## 📈 Example Streamlit Screenshot
 
 *(Add a screenshot for the reviewers)*
