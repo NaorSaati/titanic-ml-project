@@ -195,8 +195,6 @@ Ensures consistent preprocessing for both training and inference.
 
 ## 📈 Example Streamlit Screenshot
 
-*(Add a screenshot for the reviewers)*
-
 ![Streamlit Screenshot](screenshots/streamlit.png)
 
 ---
